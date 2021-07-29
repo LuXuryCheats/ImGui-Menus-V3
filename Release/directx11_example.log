@@ -1,0 +1,115 @@
+﻿  main.cpp
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(81,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(81,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(86,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(86,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(87,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(87,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(88,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(88,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(89,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(89,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(90,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(90,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(95,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(95,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(96,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(97,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(97,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(100,48): warning C4459: declaration of 'color' hides global declaration
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(77,9): message : see declaration of 'Render::color'
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(102,129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(102,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(102,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(102,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(102,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(105,62): warning C4459: declaration of 'color' hides global declaration
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(77,9): message : see declaration of 'Render::color'
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(107,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(107,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(107,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(107,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(110,54): warning C4459: declaration of 'color' hides global declaration
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(77,9): message : see declaration of 'Render::color'
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(112,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(112,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(112,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(112,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(127,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(127,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(131,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(131,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(146,73): warning C4042: 'tab_name': has bad storage class
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(165,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(165,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(166,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(166,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(167,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(167,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(171,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(171,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(175,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(175,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(185,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(185,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(186,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(186,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(187,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(187,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(190,61): warning C4100: 'y': unreferenced formal parameter
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(190,52): warning C4100: 'x': unreferenced formal parameter
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(190,38): warning C4100: 'option': unreferenced formal parameter
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(190,29): warning C4100: 'v': unreferenced formal parameter
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(209,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(209,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(210,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(210,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(214,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(214,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(224,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(224,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(225,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(225,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(226,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\functions.h(226,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(38,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(38,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(39,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(39,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(92,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(92,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(94,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(94,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(95,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(95,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(96,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(96,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(98,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(98,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(99,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(99,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(100,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(100,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(113,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(113,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(130,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(130,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(145,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(145,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(88,6): warning C4189: 'y': local variable is initialized but not referenced
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(87,6): warning C4189: 'x': local variable is initialized but not referenced
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(191,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(191,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(193,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(193,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(194,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(194,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(210,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxto\Desktop\ImGui-Menus-V2-main\render.h(210,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  3 of 700 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  directx11_example.vcxproj -> C:\Users\saxto\Desktop\ImGui-Menus-V2-main\Release\directx11_example.exe
